@@ -5,7 +5,7 @@ import subprocess
 repo_file = "README.md"
 
 # Directory to clone into
-clone_dir = "community-templates"
+clone_dir = "redteam tools"
 
 # Ensure the clone directory exists
 os.makedirs(clone_dir, exist_ok=True)
